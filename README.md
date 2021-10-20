@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Estou estudando C++ e Python
+- 🌱 Estou estudando Python
 
 <div align = "center">
   <a href="https://github.com/adriano2004">
